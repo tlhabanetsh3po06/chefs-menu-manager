@@ -1,25 +1,26 @@
-<<<<<<< HEAD
-# Chef's Menu Manager — Part 2
+# Chef's Menu Manager 👨‍🍳
 
-## Setup
+A React Native mobile app for chefs to manage their menus.
 
-```
-npm install
-npx expo start
-```
+## Features
+- Add new menu items with name, description, price
+- Edit existing items
+- Delete items
+- View all menu items
+- Filter by course (Starter, Main, Dessert)
 
-Scan the QR code with the Expo Go app, or press `a` / `i` to run on an emulator.
+## How to Run
+1. Clone the repo
+2. Run `npm install`
+3. Run `npx expo start`
+4. Scan QR code with Expo Go app
 
-## What this version includes (per Part 2 requirements)
+## Tech Stack
+- React Native
+- Expo
+- JavaScript
 
-- A form to capture Dish Name, Description, Course (Starter / Main Course / Dessert), and Price.
-- Validation on required fields with error messages.
-- A confirmation alert when a menu item is added successfully.
-- A list that displays all added menu items and updates automatically.
-- A message shown when no menu items have been added yet.
-- Consistent spacing, alignment, and layout throughout.
+## Demo
+See `Video_Demonstration_Script.md` for video walkthrough.
 
-Editing, deleting, searching, filtering, and menu statistics are intentionally left out, as these are reserved for the Final PoE.
-=======
-# chefs-menu-manager
->>>>>>> 5e005f8df509a108dbcdd7e68bd05fd8818126e7
+Developed by Tshepo Tlhabane
