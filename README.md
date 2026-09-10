@@ -22,5 +22,6 @@ A React Native mobile app for chefs to manage their menus.
 
 ## Demo
 See `Video_Demonstration_Script.md` for video walkthrough.
+Link for Video Demonstration https://www.youtube.com/shorts/KkqFeZFiJhs
 
 Developed by Tshepo Tlhabane
