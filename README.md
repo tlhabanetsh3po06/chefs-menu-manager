@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chef's Menu Manager — Part 2
 
 ## Setup
@@ -19,3 +20,6 @@ Scan the QR code with the Expo Go app, or press `a` / `i` to run on an emulator.
 - Consistent spacing, alignment, and layout throughout.
 
 Editing, deleting, searching, filtering, and menu statistics are intentionally left out, as these are reserved for the Final PoE.
+=======
+# chefs-menu-manager
+>>>>>>> 5e005f8df509a108dbcdd7e68bd05fd8818126e7
